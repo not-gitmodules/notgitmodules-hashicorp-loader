@@ -1,1 +1,1 @@
-from hashicorp_loader import HashiCorpLoader
+from .loader import HashiCorpLoader
